@@ -2,6 +2,12 @@
 
 **Fullstack разработчик и UI дизайнер**
 
+<br clear="both">
+
+<div align="center">
+  <img height="300" width="600" src="3ae792706e97941696b70b4763bd2963.gif"  />
+</div>
+
 ---
 
 ## 🛠️ Навыки
