@@ -14,7 +14,6 @@
 |---------------|-------------------------------------|
 | **JavaScript**| React, Node.js, TypeScript          |
 | **Python**    | Django, Data Analysis               |
-| **PostgreSQL**| Оптимизация и проектирование БД     |
 | **CSS**       | Flexbox, Grid, Анимации             |
 
 ---
