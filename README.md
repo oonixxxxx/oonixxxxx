@@ -75,8 +75,8 @@
 
 | Проект | Описание | Технологии |
 |--------|----------|------------|
-| **[ProjectX](link)** | Современное веб-приложение | React, Node.js, MongoDB |
-| **[DevTools](link)** | Набор инструментов для разработчиков | TypeScript, NestJS, PostgreSQL |
-| **[AlgoVis](link)** | Визуализатор алгоритмов | Python, Django, D3.js |
+| **[AI chat bot](https://github.com/oonixxxxx/AI-chat-bot)** | 🤖 AI Chat Bot Простой, но мощный чат-бот на основе искусственного интеллекта |
+| **[tg bot](https://github.com/oonixxxxx/bot_courses)** |  Telegram Bot for E-commerce ShopBot |
+| **[Authentication_App](https://github.com/oonixxxxx/Flask_Authentication_App)** | Modern web application for secure user authorization |
 
 </div>
