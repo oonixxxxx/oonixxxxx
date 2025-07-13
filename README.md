@@ -73,8 +73,8 @@
 
 <div align="center">
 
-| Проект | Описание | Технологии |
-|--------|----------|------------|
+| Проект | Описание |
+|--------|----------|
 | **[AI chat bot](https://github.com/oonixxxxx/AI-chat-bot)** | 🤖 AI Chat Bot Простой, но мощный чат-бот на основе искусственного интеллекта |
 | **[tg bot](https://github.com/oonixxxxx/bot_courses)** |  Telegram Bot for E-commerce ShopBot |
 | **[Authentication_App](https://github.com/oonixxxxx/Flask_Authentication_App)** | Modern web application for secure user authorization |
